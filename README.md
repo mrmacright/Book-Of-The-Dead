@@ -24,8 +24,8 @@ If you have [Github Desktop](https://desktop.github.com/) installed :  use the *
 
 #### Using Git Command Line (or another Git Client)
 
-You can clone this repository and start opening directly the project using the following command : `git clone xx`
+You can clone this repository and start opening directly the project using the following command : `git clone (https://github.com/mrmacright/Book-Of-The-Dead.git)`
 
 ### Method 2 : Download in Releases page
 
-You can also download project archives in the [Releases](xx) tab. These zip files contains the full project for a one-time download without Git. 
+You can also download project archives in the [Releases](https://github.com/mrmacright/Book-Of-The-Dead/releases/tag/v1.0.0) tab. These zip files contains the full project for a one-time download without Git. 
