@@ -1,6 +1,6 @@
 # Book of the Dead Mac
 
-Book of the Dead is an older high-fidelity HDRP environment project from Unity Technologies, originally created as a tutorial and based on the Book of the Dead real-time cinematic. While it still demonstrates advanced lighting, dense foliage, and photorealistic materials, it no longer represents the best example of modern HDRP workflows. This version has been updated and optimised to run natively on modern M-series Macs using recent versions of macOS and Unity.
+Book of the Dead is an older high-fidelity HDRP environment project from Unity Technologies, originally created as a tutorial and based on the Book of the Dead real-time cinematic. While it still demonstrates advanced lighting, dense foliage, and photorealistic materials, it no longer represents the best example of modern HDRP workflows. This version has been updated and optimised to run natively on modern M-series Macs using recent versions of macOS and Unity 6.
 
 **[DOWNLOAD LATEST RELEASE HERE](xx)**
 
