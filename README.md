@@ -4,7 +4,7 @@ Book of the Dead is an older high-fidelity HDRP environment project from Unity T
 
 **[DOWNLOAD LATEST RELEASE HERE](xx)**
 
-For update information, see the [Changelog](xx).
+For update information, see the [Changelog](https://github.com/mrmacright/Book-Of-The-Dead/releases).
 
 ## Requirements
 
